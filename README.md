@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Semih YILDIZ</h1>
-<h3 align="center">A passionate software developer and ı improve my skill day by day.</h3>
+<h3 align="center">A passionate software developer and i improve my skill day by day.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssmhyldz&label=Profile%20views&color=0e75b6&style=flat" alt="ssmhyldz" /> </p>
 
@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ssmhyldz](https://github.com/ssmhyldz)
 
-- 💬 Ask me about **html,css,javascript,boostrap**
+- 💬 Ask me about **html,css,javascript,boostrap,react,react native and redux**
 
 - 📫 How to reach me **smhyldz91@gmail.com**
 
-- ⚡ Fun fact **ı think ı am learncoholic**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
