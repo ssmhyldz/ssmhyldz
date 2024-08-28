@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssmhyldz" alt="ssmhyldz" /></a> </p>
 
-- 🔭 I’m currently working on **front-end,back-end,mobile programming**
+- 🔭 I’m currently working on **front-end & back-end developing and mobile programming**
 
 - 🌱 I’m currently learning **html,css,javascript,react,react native,boostrap**
 
